@@ -1,0 +1,3 @@
+# Drupal image used by Drupal Dockerized project
+
+Documentation to follow...
